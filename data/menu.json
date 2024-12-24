@@ -1,0 +1,274 @@
+{
+  "menu": [
+    {
+      "name": "Burger Classic",
+      "price": 75000,
+      "category": "Food",
+      "image_url": "images/menu/burger_classic.jpg"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 80000,
+      "category": "Food",
+      "image_url": "images/menu/cheeseburger.jpg"
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": 70000,
+      "category": "Food",
+      "image_url": "images/menu/chicken_sandwich.jpg"
+    },
+    {
+      "name": "Pizza Margherita",
+      "price": 95000,
+      "category": "Food",
+      "image_url": "images/menu/pizza_margherita.jpg"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 100000,
+      "category": "Food",
+      "image_url": "images/menu/pepperoni_pizza.jpg"
+    },
+    {
+      "name": "Pasta Carbonara",
+      "price": 85000,
+      "category": "Food",
+      "image_url": "images/menu/pasta_carbonara.jpg"
+    },
+    {
+      "name": "Pasta Bolognese",
+      "price": 90000,
+      "category": "Food",
+      "image_url": "images/menu/pasta_bolognese.jpg"
+    },
+    {
+      "name": "Grilled Salmon",
+      "price": 120000,
+      "category": "Food",
+      "image_url": "images/menu/grilled_salmon.jpg"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 65000,
+      "category": "Food",
+      "image_url": "images/menu/chicken_fried_rice.jpg"
+    },
+    {
+      "name": "Beef Steak",
+      "price": 150000,
+      "category": "Food",
+      "image_url": "images/menu/beef_steak.jpg"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "price": 70000,
+      "category": "Food",
+      "image_url": "images/menu/vegetable_stir_fry.jpg"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 60000,
+      "category": "Food",
+      "image_url": "images/menu/caesar_salad.jpg"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 65000,
+      "category": "Food",
+      "image_url": "images/menu/chicken_wings.jpg"
+    },
+    {
+      "name": "Chocolate Cake",
+      "price": 50000,
+      "category": "Desert",
+      "image_url": "images/menu/chocolate_cake.jpg"
+    },
+    {
+      "name": "Tiramisu",
+      "price": 60000,
+      "category": "Desert",
+      "image_url": "images/menu/tiramisu.jpg"
+    },
+    {
+      "name": "Apple Pie",
+      "price": 45000,
+      "category": "Desert",
+      "image_url": "images/menu/apple_pie.jpg"
+    },
+    {
+      "name": "Cheesecake",
+      "price": 70000,
+      "category": "Desert",
+      "image_url": "images/menu/cheesecake.jpg"
+    },
+    {
+      "name": "Panna Cotta",
+      "price": 55000,
+      "category": "Desert",
+      "image_url": "images/menu/panna_cotta.jpg"
+    },
+    {
+      "name": "Strawberry Shortcake",
+      "price": 60000,
+      "category": "Desert",
+      "image_url": "images/menu/strawberry_shortcake.jpg"
+    },
+    {
+      "name": "Ice Cream Sundae",
+      "price": 40000,
+      "category": "Desert",
+      "image_url": "images/menu/ice_cream_sundae.jpg"
+    },
+    {
+      "name": "Lemon Sorbet",
+      "price": 35000,
+      "category": "Desert",
+      "image_url": "images/menu/lemon_sorbet.jpg"
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 25000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/hot_chocolate.jpg"
+    },
+    {
+      "name": "Iced Coffee",
+      "price": 30000,
+      "category": "Coffee",
+      "image_url": "images/menu/iced_coffee.jpg"
+    },
+    {
+      "name": "Latte",
+      "price": 35000,
+      "category": "Coffee",
+      "image_url": "images/menu/latte.jpg"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 30000,
+      "category": "Coffee",
+      "image_url": "images/menu/cappuccino.jpg"
+    },
+    {
+      "name": "Espresso",
+      "price": 25000,
+      "category": "Coffee",
+      "image_url": "images/menu/espresso.jpg"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 20000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/orange_juice.jpg"
+    },
+    {
+      "name": "Lemonade",
+      "price": 22000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/lemonade.jpg"
+    },
+    {
+      "name": "Mango Smoothie",
+      "price": 35000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/mango_smoothie.jpg"
+    },
+    {
+      "name": "Green Tea",
+      "price": 20000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/green_tea.jpg"
+    },
+    {
+      "name": "Milkshake",
+      "price": 40000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/milkshake.jpg"
+    },
+    {
+      "name": "Iced Tea",
+      "price": 25000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/iced_tea.jpg"
+    },
+    {
+      "name": "Peach Iced Tea",
+      "price": 28000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/peach_iced_tea.jpg"
+    },
+    {
+      "name": "Virgin Mojito",
+      "price": 35000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/virgin_mojito.jpg"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 25000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/watermelon_juice.jpg"
+    },
+    {
+      "name": "Berry Smoothie",
+      "price": 35000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/berry_smoothie.jpg"
+    },
+    {
+      "name": "Hot Tea",
+      "price": 15000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/hot_tea.jpg"
+    },
+    {
+      "name": "Ice Coffee Frappe",
+      "price": 35000,
+      "category": "Coffee",
+      "image_url": "images/menu/iced_coffee_frappe.jpg"
+    },
+    {
+      "name": "Coconut Water",
+      "price": 20000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/coconut_water.jpg"
+    },
+    {
+      "name": "Apple Cider",
+      "price": 28000,
+      "category": "Soft Drink",
+      "image_url": "images/menu/apple_cider.jpg"
+    },
+    {
+      "name": "Fried Banana",
+      "price": 40000,
+      "category": "Snack",
+      "image_url": "images/menu/fried_banana.jpg"
+    },
+    {
+      "name": "Pineapple Tart",
+      "price": 50000,
+      "category": "Snack",
+      "image_url": "images/menu/pineapple_tart.jpg"
+    },
+    {
+      "name": "Brownie",
+      "price": 45000,
+      "category": "Snack",
+      "image_url": "images/menu/brownie.jpg"
+    },
+    {
+      "name": "Macaron",
+      "price": 30000,
+      "category": "Snack",
+      "image_url": "images/menu/macaron.jpg"
+    },
+    {
+      "name": "Custard Pudding",
+      "price": 50000,
+      "category": "Desert",
+      "image_url": "images/menu/custard_pudding.jpg"
+    }
+  ]
+}
